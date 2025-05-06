@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>oops</class>
+ <widget class="QDialog" name="oops">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>701</width>
+    <height>532</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="file1">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>20</y>
+     <width>121</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>file1</string>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Pictures/Screenshots/Screenshot 2024-04-01 233641.png</normaloff>../../Pictures/Screenshots/Screenshot 2024-04-01 233641.png</iconset>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="file4">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>20</y>
+     <width>121</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>file4</string>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Pictures/Screenshots/Screenshot 2024-04-01 233641.png</normaloff>../../Pictures/Screenshots/Screenshot 2024-04-01 233641.png</iconset>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="file3">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>20</y>
+     <width>121</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>file3</string>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Pictures/Screenshots/Screenshot 2024-04-01 233641.png</normaloff>../../Pictures/Screenshots/Screenshot 2024-04-01 233641.png</iconset>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="file2">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>20</y>
+     <width>121</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>file2</string>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Pictures/Screenshots/Screenshot 2024-04-01 233641.png</normaloff>../../Pictures/Screenshots/Screenshot 2024-04-01 233641.png</iconset>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="textBrowser">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>120</y>
+     <width>651</width>
+     <height>341</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="close">
+   <property name="geometry">
+    <rect>
+     <x>570</x>
+     <y>480</y>
+     <width>111</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>close</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>-100</x>
+     <y>-90</y>
+     <width>841</width>
+     <height>661</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../../../../Preethi Senthilkumar/Downloads/nucleus.jpg</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>721</width>
+     <height>541</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../../Pictures/Screenshots/Screenshot 2024-04-01 232327.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <zorder>label_2</zorder>
+  <zorder>label</zorder>
+  <zorder>file1</zorder>
+  <zorder>file4</zorder>
+  <zorder>file3</zorder>
+  <zorder>file2</zorder>
+  <zorder>textBrowser</zorder>
+  <zorder>close</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>innerwindow</class>
+ <widget class="QDialog" name="innerwindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>919</width>
+    <height>669</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="oops">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>310</y>
+     <width>241</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>c++</string>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Pictures/Screenshots/Screenshot 2024-04-01 233329.png</normaloff>../../Pictures/Screenshots/Screenshot 2024-04-01 233329.png</iconset>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="probability">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>460</y>
+     <width>241</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>probability</string>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Pictures/Screenshots/Screenshot 2024-04-01 233329.png</normaloff>../../Pictures/Screenshots/Screenshot 2024-04-01 233329.png</iconset>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="python">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>460</y>
+     <width>231</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>python</string>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Pictures/Screenshots/Screenshot 2024-04-01 233329.png</normaloff>../../Pictures/Screenshots/Screenshot 2024-04-01 233329.png</iconset>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="dsa">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>460</y>
+     <width>241</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>data structures</string>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Pictures/Screenshots/Screenshot 2024-04-01 233329.png</normaloff>../../Pictures/Screenshots/Screenshot 2024-04-01 233329.png</iconset>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="abstract_2">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>310</y>
+     <width>241</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>abstract algebra</string>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Pictures/Screenshots/Screenshot 2024-04-01 233329.png</normaloff>../../Pictures/Screenshots/Screenshot 2024-04-01 233329.png</iconset>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="discrete">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>310</y>
+     <width>231</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>discrete structures</string>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Pictures/Screenshots/Screenshot 2024-04-01 233329.png</normaloff>../../Pictures/Screenshots/Screenshot 2024-04-01 233329.png</iconset>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>-30</y>
+     <width>1001</width>
+     <height>771</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../../../../Preethi Senthilkumar/Downloads/nucleus.jpg</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>931</width>
+     <height>681</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../../Pictures/Screenshots/Screenshot 2024-04-01 232327.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>230</x>
+     <y>220</y>
+     <width>281</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../../Pictures/Screenshots/Screenshot 2024-04-01 233319.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="back">
+   <property name="geometry">
+    <rect>
+     <x>792</x>
+     <y>608</y>
+     <width>101</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>close</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>20</y>
+     <width>581</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>hello!! Student </string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_5">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>90</y>
+     <width>521</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>This is mini version of the original Nucleus developed by:</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_6">
+   <property name="geometry">
+    <rect>
+     <x>270</x>
+     <y>140</y>
+     <width>301</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Preethi Senthilkumar</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_7">
+   <property name="geometry">
+    <rect>
+     <x>270</x>
+     <y>160</y>
+     <width>141</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>madhusree</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_8">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>20</y>
+     <width>841</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../../Pictures/Screenshots/Screenshot 2024-04-11 215110.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_9">
+   <property name="geometry">
+    <rect>
+     <x>580</x>
+     <y>30</y>
+     <width>201</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../../Pictures/Screenshots/Screenshot 2024-04-11 215035.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="name">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>55</y>
+     <width>311</width>
+     <height>31</height>
+    </rect>
+   </property>
+  </widget>
+  <zorder>label_2</zorder>
+  <zorder>label</zorder>
+  <zorder>label_8</zorder>
+  <zorder>oops</zorder>
+  <zorder>probability</zorder>
+  <zorder>python</zorder>
+  <zorder>dsa</zorder>
+  <zorder>abstract_2</zorder>
+  <zorder>discrete</zorder>
+  <zorder>label_3</zorder>
+  <zorder>back</zorder>
+  <zorder>label_4</zorder>
+  <zorder>label_5</zorder>
+  <zorder>label_6</zorder>
+  <zorder>label_7</zorder>
+  <zorder>label_9</zorder>
+  <zorder>name</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
