@@ -1,4 +1,4 @@
-#### NUCLEOLUS
+# NUCLEOLUS
 
 ## Overview
 This project is a Study Portal developed using C++ and Qt framework. It provides a role-based interface for users including students and staff (teachers) with basic authentication and user management.
